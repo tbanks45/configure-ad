@@ -44,7 +44,7 @@ Here while logged into the domain controller I installed active directory domain
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/tbanks45/configure-ad/assets/142834800/61a62bda-f0d2-45af-96d2-242ccb7cc3f3)
 </p>
 <p>
 After creating admin and normal user accounts in active directory I joined client-1 to my domain (mydomain.com). From the Azure Portal, set Client-1’s DNS settings to the DC’s private IP address. From the Azure Portal, restart Client-1. Next I logged into Client-1 (Remote Desktop) as the original local admin (labuser) to join it to the domain (computer will restart). Lastly, I logged in to the Domain Controller (Remote Desktop) to verify Client-1 shows up in Active Directory Users and Computers (ADUC) inside the “Computers” container on the root of the domain.
