@@ -36,7 +36,7 @@ Here in step 1 I created two virtual machines within the same resource group and
 <br />
 
 <p>
-![image](https://github.com/tbanks45/configure-ad/assets/142834800/b4db08f5-e4f2-464b-8151-d5bf85088f5e)
+![image](https://github.com/tbanks45/configure-ad/assets/142834800/a0b1c2fa-3573-4a81-bdd9-31600d083ae5)
 </p>
 <p>
 Here while logged into the domain controller I installed active directory domain services. To promote this vm as the domain controller I setup a new forest as mydomain.com.
