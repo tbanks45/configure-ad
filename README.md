@@ -28,7 +28,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/tbanks45/configure-ad/assets/142834800/382bd111-d1c6-4b06-8019-d70f7ec24f3a)
 </p>
 <p>
 Here in step 1 I created two virtual machines within the same resource group and virtual network in microsoft azure. One virtual machine(Domain controller) using windows server 2022 and the other virtual machine(Client) using windows 10. I set the domain controller’s NIC private IP address to be static because as the domain controller the address cannot change. Also, after logging into the domain controller's vm I enabled ICMPv4 in on the local windows firewall so that connectivity was functioning.
