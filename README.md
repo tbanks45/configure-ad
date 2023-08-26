@@ -36,7 +36,7 @@ Here in step 1 I created two virtual machines within the same resource group and
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/tbanks45/configure-ad/assets/142834800/b4db08f5-e4f2-464b-8151-d5bf85088f5e)
 </p>
 <p>
 Here while logged into the domain controller I installed active directory domain services. To promote this vm as the domain controller I setup a new forest as mydomain.com.
