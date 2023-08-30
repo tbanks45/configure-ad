@@ -28,6 +28,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
+  
 ![image](https://github.com/tbanks45/configure-ad/assets/142834800/382bd111-d1c6-4b06-8019-d70f7ec24f3a)
 </p>
 <p>
@@ -36,6 +37,7 @@ Here in step 1 I created two virtual machines within the same resource group and
 <br />
 
 <p>
+  
 ![image](https://github.com/tbanks45/configure-ad/assets/142834800/a0b1c2fa-3573-4a81-bdd9-31600d083ae5)
 </p>
 <p>
@@ -44,6 +46,7 @@ Here while logged into the domain controller I installed active directory domain
 <br />
 
 <p>
+  
 ![image](https://github.com/tbanks45/configure-ad/assets/142834800/61a62bda-f0d2-45af-96d2-242ccb7cc3f3)
 </p>
 <p>
